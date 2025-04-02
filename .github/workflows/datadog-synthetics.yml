@@ -22,7 +22,7 @@ jobs:
         lhci autorun --collect.staticDistDir=./ # Adjust path if needed
 
     - name: Upload Lighthouse Report as Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # Updated to v4
       with:
         name: lighthouse-report
         path: .lighthouseci
