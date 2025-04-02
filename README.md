@@ -19,11 +19,11 @@ This is a **responsive and customizable** portfolio website template built using
 ## Installation & Setup
 1. **Download or Clone the Repository:**
    ```sh
-   git clone https://github.com/ankitsingh32/Portfolio-Website-templete/tree/main
+   git clone https://github.com/ankitsingh32/Portfolio-Website-Template-Main.git
    ```
 2. **Open the Project Folder:**
    ```sh
-   cd Portfolio-Website-Template
+   cd Portfolio-Website-Template-Main
    ```
 3. **Run the Website:**
    - Open `index.html` in your browser.
