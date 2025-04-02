@@ -1,4 +1,4 @@
-# Portfolio-Website-templete-main
+# Portfolio-Website-templete
 ## Overview
 This is a **responsive and customizable** portfolio website template built using **HTML, CSS, and JavaScript**. It is designed to showcase your skills, projects, and professional experience in an elegant and modern way.
 
@@ -18,11 +18,11 @@ This is a **responsive and customizable** portfolio website template built using
 ## Installation & Setup
 1. **Download or Clone the Repository:**
    ```sh
-   git clone https://github.com/ankitsingh32/Portfolio-Website-Template-Main.git
+   git clone https://https://github.com/ankitsingh32/Portfolio-Website-templete
    ```
 2. **Open the Project Folder:**
    ```sh
-   cd Portfolio-Website-Template-Main
+   cd Portfolio-Website-Template
    ```
 3. **Run the Website:**
    - Open `index.html` in your browser.
