@@ -44,7 +44,7 @@ If you'd like to contribute to improving this template, feel free to fork the re
 This project is licensed under the **MIT License** – feel free to use and modify it as per your needs.
 
 ## Contact
-For any issues or suggestions, feel free to reach out via email at [ankitsinghas0034839@gmail.com] or connect with me on [LinkedIn](https://linkedin.com/in/ankitsinghankit).
+For any issues or suggestions, feel free to reach out via email at [ankitsinghas0034839@gmail.com] or connect with me on [LinkedIn](https://linkedin.com/in/ankitsinghankit/).
 
 
  
